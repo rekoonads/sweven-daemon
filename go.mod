@@ -1,3 +1,3 @@
-module github.com/Oneplay-Internet/oneplay/daemon
+module github.com/sweven-games/daemon
 
 go 1.18
